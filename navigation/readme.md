@@ -3,3 +3,6 @@
     * [500_ml](packaging/takeaway_container_rectangle/500_ml)
       * [nisbet_fiesta](packaging/takeaway_container_rectangle/500_ml/nisbet_fiesta)
         * [small_dm181](packaging/takeaway_container_rectangle/500_ml/nisbet_fiesta/small_dm181)
+* [wood](wood)
+  * [timber_cls](wood/timber_cls)
+    * [38_mm_width_63_mm_height_2400_mm_depth](wood/timber_cls/38_mm_width_63_mm_height_2400_mm_depth)
