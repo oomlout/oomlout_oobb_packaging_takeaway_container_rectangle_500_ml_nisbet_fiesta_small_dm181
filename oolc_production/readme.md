@@ -12,3 +12,13 @@
 * thickness:   
 * material:   
  
+
+### oolc_2_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181_alignment_jig
+* link: [/oolc_2_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181_alignment_jig](oolc_2_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181_alignment_jig)  
+![](oolc_2_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181_alignment_jig/working_300.png)  
+![](oolc_2_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181_alignment_jig/image_300.jpg)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
