@@ -1,0 +1,5 @@
+* [packaging](packaging)
+  * [takeaway_container_rectangle](packaging/takeaway_container_rectangle)
+    * [500_ml](packaging/takeaway_container_rectangle/500_ml)
+      * [nisbet_fiesta](packaging/takeaway_container_rectangle/500_ml/nisbet_fiesta)
+        * [small_dm181](packaging/takeaway_container_rectangle/500_ml/nisbet_fiesta/small_dm181)

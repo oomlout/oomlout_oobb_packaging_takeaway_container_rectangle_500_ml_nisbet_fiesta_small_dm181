@@ -3,5 +3,5 @@ project_name: Oomlout Oobb Packaging Takeaway Container Rectangle 500 Ml Nisbet 
   Small Dm181
 project_repo: https://github.com/oomlout/oomlout_oobb_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
 production_format:
-  oolc_1:
+  oolc_1_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181_10_unit_21_width_21_height:
     file_location: source_files/oolc_1.cdr
